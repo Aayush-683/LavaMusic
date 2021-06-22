@@ -1,0 +1,29 @@
+{
+  "name": "lavamusic",
+  "version": "1.0.0",
+  "description": "Music bot that uses Lavalink for its audio player.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackKnight683/LavaMusic.git"
+  },
+  "author": "BlackKnight683",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlackKnight683/LavaMusic/issues"
+  },
+  "homepage": "https://github.com/BlackKnight683/LavaMusic#readme",
+  "dependencies": {
+    "@lavacord/discord.js": "0.0.7",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "lavasfy": "^2.2.1",
+    "pretty-ms": "^7.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.27.0"
+  }
+}
