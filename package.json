@@ -20,7 +20,9 @@
     "@lavacord/discord.js": "0.0.7",
     "discord.js": "^12.5.3",
     "dotenv": "^10.0.0",
+    "lavacord": "^1.1.9",
     "lavasfy": "^2.2.1",
+    "node-fetch": "2.6.2",
     "pretty-ms": "^7.0.1"
   },
   "devDependencies": {
